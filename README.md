@@ -14,6 +14,8 @@ Le programme doit afficher l'etat de chaque pilier à chaque tour.
 Le programme affiche le nombre de tour.
 
 Vous devez développez au minimum un programme qui utilise l'itératif. (fichier 1)
+
+
 /*BONUS*/ Un programme qui qui fonctionne avec du récursif.(fichier 2)
 
 Merger sur le main.
